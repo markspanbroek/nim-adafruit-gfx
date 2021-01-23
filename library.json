@@ -1,6 +1,7 @@
 {
     "name": "nim-adafruit-gfx",
     "version": "0.1.0",
+    "license": "MIT",
     "dependencies": {
         "nim-platformio": "https://github.com/markspanbroek/nim-platformio",
         "adafruit/Adafruit GFX Library": "^1.10.4"
