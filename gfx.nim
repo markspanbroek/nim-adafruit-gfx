@@ -6,6 +6,7 @@ type
 proc begin*(gfx: Gfx)
 proc setRotation*(gfx: Gfx, rotation: uint8)
 proc println*(gfx: Gfx, line: cstring)
+proc fillScreen*(gfx: Gfx, color: uint16)
 {.pop.}
 
 {.pop.}
